@@ -36,17 +36,6 @@ if st.button("Search"):
     
    
 footer="""<style>
-a:link , a:visited{
-color: blue;
-background-color: transparent;
-text-decoration: underline;
-}
-
-a:hover,  a:active {
-color: red;
-background-color: transparent;
-text-decoration: underline;
-}
 
 .footer {
 position: fixed;
@@ -54,12 +43,12 @@ left: 0;
 bottom: 0;
 width: 100%;
 background-color: white;
-color: black;
+color: blue;
 text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed by <a style='display: block; text-align: center;' target="_blank">Ramesh Kumar S</a></p>
+<p> <a style='display: block; text-align: center;' target="_blank"> Made by: Ramesh Kumar S</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
