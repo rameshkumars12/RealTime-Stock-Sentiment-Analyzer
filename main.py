@@ -35,4 +35,4 @@ if st.button("Search"):
     st.bar_chart(tickerDf.Volume)
     
    
-st.write("Made by: Ramesh Kumar")
+st.footer("Made by: Ramesh Kumar")
