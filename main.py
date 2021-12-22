@@ -48,7 +48,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p> <a style='display: block; text-align: center;' target="_blank"> Made by: Ramesh Kumar S</a></p>
+<p><a style='display: block; text-align: center;' target="_blank"> Ramesh Kumar S</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
