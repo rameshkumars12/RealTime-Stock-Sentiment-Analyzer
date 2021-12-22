@@ -33,3 +33,6 @@ if st.button("Search"):
     tickerDf = stockdata.history(period='1d', start='2021-11-01', end=end_date)
     st.line_chart(tickerDf.Close)
     st.bar_chart(tickerDf.Volume)
+    
+    
+    st.write("Made by: Ramesh Kumar")
