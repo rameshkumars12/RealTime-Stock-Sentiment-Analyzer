@@ -34,5 +34,5 @@ if st.button("Search"):
     st.line_chart(tickerDf.Close)
     st.bar_chart(tickerDf.Volume)
     
-    
-    st.write("Made by: Ramesh Kumar")
+   
+st.write("Made by: Ramesh Kumar")
