@@ -14,3 +14,7 @@ At first the project aimed to find the sentiment of the stocks using twitter twe
 So I came with an idea of scraping the google news headlines to find the sentiment of the stocks. For scraping method 
 **Selenium** is used with Chromedriver and for word tokenizing **NLTK** is used and to find the sentiment analyse **TextBlob** is used, to deploy the model **Streamlit** is used.
 
+
+
+![SSA Site ](https://user-images.githubusercontent.com/84787925/152668845-998ccc8f-db8a-4330-a890-65bc8408241f.png)
+
